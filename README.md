@@ -38,3 +38,8 @@ Welcome to the MasterJi assignment repository. This project implements three Rea
 
 Feel free to explore and provide feedback on the implementation. Thank you for reviewing!
 
+![Screenshot (308)](https://github.com/user-attachments/assets/ae8ae575-566e-4a67-a6ad-c12f0dad3a08)
+![Screenshot (309)](https://github.com/user-attachments/assets/a49771c1-6b7f-4cac-883c-b66f67ed58ba)
+![Screenshot (310)](https://github.com/user-attachments/assets/6567b645-aad1-418a-b980-63e90f585b7f)
+![Screenshot (311)](https://github.com/user-attachments/assets/f73737fb-e757-4406-b82e-0417d1c8c979)
+![Screenshot (312)](https://github.com/user-attachments/assets/455e0ff9-24a7-4bd8-ab04-a9d301596193)
