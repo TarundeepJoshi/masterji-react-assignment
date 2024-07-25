@@ -1,0 +1,43 @@
+.otp-bg,
+.course-list-bg,
+.batches-bg {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.otp-bg {
+    background-color: #3F72AF;
+}
+
+.course-list-bg {
+    background-color: #D2E3C8;
+}
+
+.batches-bg {
+    background-color: #E2BBE9;
+}
+
+.otp-input {
+    padding: 12px;
+    background-color: #DBE2EF;
+    color: black;
+    border-radius: 4px;
+    outline: none;
+    width: 3.5rem;
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+
+table th {
+    text-align: left;
+    padding: 0.5rem 1rem;
+    border: 1px solid #000000;
+}
+
+table td {
+    padding: 1rem 1rem;
+}
